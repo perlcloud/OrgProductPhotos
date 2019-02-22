@@ -1,6 +1,4 @@
 # OrgProductPhotos
-Organize photo files into folders based on the ProductID in the filename.
+An older version of the [File-Rename](https://github.com/perlcloud/File-Rename) created with windows batch scripting.
 
 "ProductID" is defined as the beginning of the filename until the first _.
-
-Also, I'm testing Git....
